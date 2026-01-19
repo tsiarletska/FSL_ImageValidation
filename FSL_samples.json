@@ -1,0 +1,311 @@
+// self.training_examples = [
+    {
+        "filename": "142191.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "CB10",
+            "language": "en",
+            "absolute_discount": 33.99,
+            "discount_percentage": "5%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 679.99,
+            "basket_value_after_discount": 646.00
+        })
+    },
+    {
+        "filename": "142119.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "CRAZY25",
+            "language": "en",
+            "absolute_discount": 227.00,
+            "discount_percentage": "25%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 908.00,
+            "basket_value_after_discount": 681.00
+        })
+    },
+    {
+        "filename": "142208.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "stylebender",
+            "language": "en",
+            "absolute_discount": 23.24,
+            "discount_percentage": "10%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 331.95,
+            "basket_value_after_discount": 209.12
+        })
+    },
+    {
+        "filename": "142274.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "SVPHS",
+            "language": "en",
+            "absolute_discount": 39.86,
+            "discount_percentage": "15%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 265.74,
+            "basket_value_after_discount": 225.88
+        })
+    },
+    {
+        "filename": "121198.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "SPECIAL15",
+            "language": "es",
+            "absolute_discount": 198.21,
+            "discount_percentage": "7%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 2633.31,
+            "basket_value_after_discount": 2633.31
+        })
+    },
+    {
+        "filename": "136667.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "VALLEMOBILE",
+            "language": "sk",
+            "absolute_discount": 45.00,
+            "discount_percentage": "29%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 152.10,
+            "basket_value_after_discount": 107.10
+        })
+    },
+    {
+        "filename": "136827.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "BG271acc",
+            "language": "sk",
+            "absolute_discount": 111.11,
+            "discount_percentage": "42.8%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 259.34,
+            "basket_value_after_discount": 148.23
+        })
+    },
+    {
+        "filename": "304244.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "IFP99V5A",
+            "language": "es",
+            "absolute_discount": 61.98,
+            "discount_percentage": "0.72%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 8553.82,
+            "basket_value_after_discount": 7120.60
+        })
+    },
+    {   
+        "filename": "304242.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "stylebender",
+            "language": "es",
+            "absolute_discount": 10.40,
+            "discount_percentage": "13.56%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 103.94,
+            "basket_value_after_discount": 85.34
+        })
+    },
+    {
+        "filename": "72410.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "LISBOA26",
+            "language": "es",   
+            "absolute_discount": 79,
+            "discount_percentage": "10%",
+            "expiration_date": "",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 881,
+            "basket_value_after_discount": 714
+        })
+    },
+    {
+        "filename": "156991.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "arantxa",
+            "language": "en",   
+            "absolute_discount": 57.25,
+            "discount_percentage": "15%",
+            "expiration_date": "31/12/2025",
+            "boomarks_visible": False,
+            "basket_value_before_discount": "",
+            "basket_value_after_discount": 500
+        })
+    },
+    {
+        "filename": "156726.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "IGTRIP",
+            "language": "en",   
+            "absolute_discount": "",
+            "discount_percentage": "5%",
+            "expiration_date": "Dec 31, 2025",
+            "boomarks_visible": False,
+            "basket_value_before_discount": ,
+            "basket_value_after_discount": 351.42
+        })
+    },
+    {
+        "filename": "157074.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "10CNRAIL",
+            "language": "en",   
+            "absolute_discount": 6.28,
+            "discount_percentage": "10%",
+            "expiration_date": "31 Dec 2025 5:59 PM",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 208.80,
+            "basket_value_after_discount": 210.71
+        })
+    },
+    {
+        "filename": "210825.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "arantxa",
+            "language": "nl",   
+            "absolute_discount": 26.58,
+            "discount_percentage": "15%",
+            "expiration_date": "12/31/2025",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 267.68,
+            "basket_value_after_discount": 246.68
+        })
+    },
+    {
+        "filename": "29311.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "TNACN12",
+            "language": "en",   
+            "absolute_discount": 37.50,
+            "discount_percentage": "15%",
+            "expiration_date": "31 Dec 2025 17:59",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 279.90,
+            "basket_value_after_discount": 242.40
+        })
+    },
+    {
+        "filename": "29029.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "JKLOOKS",
+            "language": "en",   
+            "absolute_discount": 27.99,
+            "discount_percentage": "10%",
+            "expiration_date": "31 Dec 2026 17:59",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 279.90,
+            "basket_value_after_discount": 251.91
+        })
+    },
+    { 
+        "filename": "304145.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "IGTRIP",
+            "language": "es",   
+            "absolute_discount": ,
+            "discount_percentage": "5%",
+            "expiration_date": "dic 31, 2025",
+            "boomarks_visible": False,
+            "basket_value_before_discount": ,
+            "basket_value_after_discount": 217.52
+        })
+    },
+    {
+        "filename": "142246.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "TNACN12",
+            "language": "en",   
+            "absolute_discount": 15.05,
+            "discount_percentage": "15%",
+            "expiration_date": "31 Dec 2025 17:59",
+            "boomarks_visible": False,
+            "basket_value_before_discount": 139.85,
+            "basket_value_after_discount": 124.80
+        })
+    },
+    {
+        "filename": "142072.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "IGTRIP",
+            "language": "en",   
+            "absolute_discount": ,
+            "discount_percentage": "5%",
+            "expiration_date": "Dec 31, 2025",
+            "boomarks_visible": False,
+            "basket_value_before_discount": ,
+            "basket_value_after_discount": 439.88
+        })
+    },
+    {
+        "filename": "157176.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "TRIPCAR7",
+            "language": "en",   
+            "absolute_discount": 132.28,
+            "discount_percentage": "7%",
+            "expiration_date": "31 Dec 2025 5:59 PM",
+            "boomarks_visible": True,
+            "basket_value_before_discount": 1889.59,
+            "basket_value_after_discount": 1757.41
+        })
+    },
+    {
+        "filename": "157231.png", 
+        "correct_output": json.dumps({
+            "status": "not working",
+            "visibility": "WC03_XKQR4V",
+            "language": "en",   
+            "absolute_discount": ,
+            "discount_percentage": "",
+            "expiration_date": "",
+            "boomarks_visible": True,
+            "basket_value_before_discount": ,
+            "basket_value_after_discount": 252.00
+        })
+    },
+    {
+        "filename": "6573893.png", 
+        "correct_output": json.dumps({
+            "status": "working",
+            "visibility": "TNACN12",
+            "language": "en",   
+            "absolute_discount": ,
+            "discount_percentage": "15%",
+            "expiration_date": "31 Dec 2025 17:59",
+            "boomarks_visible": True,
+            "basket_value_before_discount": 140.78,
+            "basket_value_after_discount": 125.65
+        })
+    }
+
+]
